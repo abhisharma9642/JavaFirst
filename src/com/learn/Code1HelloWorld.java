@@ -1,5 +1,5 @@
 package com.learn;
-public class CodeOneHelloWorld //main is class
+public class Code1HelloWorld //main is class
 {
     public static void main(String[] args) //main method, it can call another class method
             //main is also a method, it can call and run another methods and statements

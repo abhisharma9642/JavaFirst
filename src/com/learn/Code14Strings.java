@@ -1,6 +1,6 @@
 package com.learn;
 
-public class StringsInJava
+public class Code14Strings
 {
     public static void main(String[] args)
     {

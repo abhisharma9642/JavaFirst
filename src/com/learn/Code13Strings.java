@@ -10,9 +10,9 @@ public class Code13Strings
         String name= "Abhishek sharma";
         System.out.println(name);
         Scanner sc= new Scanner(System.in);
-        String str= sc.next();// it store only first word from the string
+        String str= sc.next();// it stores only first word from the string
         System.out.println(str);
-        String str1= sc.nextLine();//it store complete string as it is
+        String str1= sc.nextLine();//it stores complete string as it is
         System.out.println(str1);
     }
 }

@@ -1,6 +1,6 @@
 package com.learn;
 
-public class IncrementOrDecrement
+public class Code10IncrementDecrement
 {
     public static void main(String[] args)
     {

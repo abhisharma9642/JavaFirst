@@ -2,7 +2,7 @@ package com.learn;
 
 import java.util.Scanner;
 
-public class IfAndElse
+public class Code16IfElse
 {
     public static void main(String[] args)
     {

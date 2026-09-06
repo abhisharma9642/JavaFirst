@@ -1,6 +1,6 @@
 package com.learn;
 
-public class Java19
+public class Code32MethodOverloading
 {
     static void method()//method with no args
     {

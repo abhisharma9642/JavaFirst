@@ -1,6 +1,6 @@
 package com.learn;
 
-public class Code2VariablesDataTypes
+public class Code3VariablesDataTypes
 {
     public static void main(String[] args)
     {

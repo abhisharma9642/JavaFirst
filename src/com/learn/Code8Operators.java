@@ -1,5 +1,5 @@
 package com.learn;
-public class OperatorsInJava
+public class Code8Operators
 {
     public static void main(String[] args)
     {

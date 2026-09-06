@@ -1,5 +1,5 @@
 package com.learn;
-public class WhileLoopsInJava
+public class Code21WhileLoopsInJava
 {
     public static void main(String[] args)
     {

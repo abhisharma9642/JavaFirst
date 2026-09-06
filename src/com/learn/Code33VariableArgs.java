@@ -1,8 +1,8 @@
 package com.learn;
 
-public class Java20
+public class Code33VariableArgs
 {
-    static int sum(int x, int ...arr)
+    static int sum(int x, int ...arr)//method with infinite args which takes all args in Array
     {
         int result= 0;
         for(int a: arr)

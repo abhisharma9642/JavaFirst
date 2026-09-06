@@ -1,6 +1,6 @@
 package com.learn;
 
-public class ContinueInLoops
+public class Code25ContinueInLoops
 {
     public static void main(String[] args)
     {

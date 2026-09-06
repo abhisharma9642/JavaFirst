@@ -2,7 +2,7 @@ package com.learn;
 
 import java.util.Arrays;
 
-public class ArraysInJava
+public class Code26ArraysInJava
 {
     public static void main(String[] args)
     {

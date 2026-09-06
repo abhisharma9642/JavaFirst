@@ -1,6 +1,6 @@
 package com.learn;
 
-public class ArrayMethodsInJava
+public class Code27ArrayMethodsInJava
 {
     public static void main(String[] args)
     {

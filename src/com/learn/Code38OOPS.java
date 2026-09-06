@@ -13,7 +13,7 @@ class first
 
 
 
-public class JavaOOPS
+public class Code38OOPS
 {
     public static void main(String[] args)
     {

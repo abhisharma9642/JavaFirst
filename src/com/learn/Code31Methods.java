@@ -1,6 +1,6 @@
 package com.learn;
 
-public class Java18
+public class Code31Methods
 {
      int logic(int a, int b)
     {
@@ -22,7 +22,7 @@ public class Java18
 //        int c= logic(g,h);//c will be stored in c in method which is in class
 //        //System.out.println(logic(g,h));//as a(g)>b(h), so, they got added- (g+h)
 //        System.out.println(c);
-        Java18 obj= new Java18();
+        Code31Methods obj= new Code31Methods();
         System.out.println(obj.logic(g,h));
     }
 }

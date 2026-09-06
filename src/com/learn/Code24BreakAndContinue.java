@@ -1,6 +1,6 @@
 package com.learn;
 
-public class BreakAndContinue
+public class Code24BreakAndContinue
 {
     public static void main(String[] args)
     {

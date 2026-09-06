@@ -1,6 +1,6 @@
 package com.learn;
 
-public class ForLoopInJava
+public class Code23ForLoopInJava
 {
     public static void main(String[] args)
     {

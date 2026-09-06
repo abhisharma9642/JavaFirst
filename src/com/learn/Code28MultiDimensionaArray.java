@@ -1,6 +1,6 @@
 package com.learn;
 
-public class MultiDimensionaArray
+public class Code28MultiDimensionaArray
 {
     public static void main(String[] args)
     {

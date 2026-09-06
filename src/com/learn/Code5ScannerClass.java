@@ -2,7 +2,7 @@ package com.learn;
 
 import java.util.Scanner;//to import scanner input class
 
-public class ScannerClassAndCheckInput
+public class Code5ScannerClass
 {
     public static void main(String[] args)
     {
